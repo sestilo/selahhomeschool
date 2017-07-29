@@ -33,12 +33,6 @@
 		"oAP": "\/.gitignore.LCK",
 		"oF": 0
 		},
-	"\/_notes\/dwsync.xml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_notes\/dwsync.xml",
-		"oF": 0
-		},
 	"\/bower.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -8202,12 +8196,6 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
-		},
-	"\/package.json.LCK": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/package.json.LCK",
-		"oF": 0
 		},
 	"\/README.md": {
 		"cS": 0,
